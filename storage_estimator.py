@@ -9,8 +9,6 @@ celsius = float(input("Temperature in Celsius: "))
 
 # Convert to Fahrenheit
 fahrenheit = celsius * 9 / 5 + 32
-#Convert to Kelvin
-Kelvin=celsius +273
+
 # Show the result
 print("Fahrenheit:", fahrenheit)
-print("Kelvin:", Kelvin)
